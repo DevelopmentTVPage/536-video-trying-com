@@ -10,6 +10,19 @@
         "loginId": "1759034",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "trying.com"
+        "cookiedomain": "trying.com",
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ]
+            }
+        }
     }
 }
